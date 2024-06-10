@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78eff8103ecb4544c9c6d86e7c8db9cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item_armor_: {fileID: 171658707295568778, guid: c529c9cc08919c34aa5148d5283f6f4c, type: 3}
+  - item_: {fileID: 4378970855529021607, guid: c4d0e40e113f4c249a7980bb6046fac9, type: 3}
+  - inven_transform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

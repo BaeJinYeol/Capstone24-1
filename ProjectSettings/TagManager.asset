@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Item Database
+  - EquipBox
+  - InvenBox
+  - Player Root
+  - DressBox
+  - DressPanel
+  - InvenPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Setting UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 67686837
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Between
+    uniqueID: 1622689129
+    locked: 0
+  - name: Player
+    uniqueID: 1597636469
+    locked: 0
+  - name: Platforms
+    uniqueID: 1811350799
+    locked: 0
+  - name: Foreground
+    uniqueID: 486143507
+    locked: 0
+  - name: VisiibleParicles
+    uniqueID: 2322751893
+    locked: 0
+  - name: UI
+    uniqueID: 1353358263
+    locked: 0
+  - name: Enemies
+    uniqueID: 504702957
+    locked: 0

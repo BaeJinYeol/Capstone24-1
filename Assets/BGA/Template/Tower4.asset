@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 988b045e8a870774db2659e940278388, type: 3}
+  m_Name: Tower4
+  m_EditorClassIdentifier: 
+  towerPrefab: {fileID: 360414034248342744, guid: 297cfaef19906a442b3e0282c73668a2, type: 3}
+  followtowerPrefab: {fileID: 360414034248342744, guid: 38e23e783d8d70446ad5d1555a523432, type: 3}
+  weapon:
+  - damage: 15
+    rate: 1
+    range: 15
+    cost: 100
