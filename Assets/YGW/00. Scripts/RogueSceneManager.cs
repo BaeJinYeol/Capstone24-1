@@ -79,12 +79,12 @@ public class RogueSceneManager : MonoBehaviour
         int new_itemId = 0;
         if (stage == 1)
         {
-            new_itemId = RandomItem(1, 50);
+            new_itemId = RandomItem(50, 86);
             GameManager.Instance.player_gold += 500;
         }
         else if (stage == 2)
         {
-            new_itemId = RandomItem(50, 86);
+            new_itemId = RandomItem(1, 50);
             GameManager.Instance.player_gold += 700;
         }
 
